@@ -30,9 +30,9 @@ nav {
 }
 
 nav a {
-    color: white;
+    color: rgb(2, 2, 2);
     text-decoration: none;
-    background-color: #9b4d83;
+    background-color: #d1ce0e;
     padding: 10px 15px;
     border-radius: 8px;
     margin: 5px;
